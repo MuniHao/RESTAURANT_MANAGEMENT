@@ -1,0 +1,44 @@
+
+---
+
+### 📄 .gitignore
+
+```gitignore
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Others
+*.db
+*.bak
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar
+*.gz
+*.iso
+*.tmp
+*.temp
+*.log
+*.DS_Store
+Thumbs.db
