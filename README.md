@@ -18,13 +18,16 @@ A desktop application for managing restaurant operations, built with .NET Framew
 - ADO.NET
 
 ## 📂 Project Structure
-RESTAURANT_MANAGEMENT/ 
-├── bin/ # Compiled binaries (excluded from Git) 
-├── obj/ # Temporary object files (excluded from Git) 
-├── Database.sql # SQL script for database schema 
-├── *.sln # Visual Studio solution file 
-├── *.csproj # Project file 
+
+<pre>
+RESTAURANT_MANAGEMENT/
+├── bin/             # Compiled binaries (excluded from Git)
+├── obj/             # Temporary object files (excluded from Git)
+├── Database.sql     # SQL script for database schema
+├── *.sln            # Visual Studio solution file
+├── *.csproj         # Project file
 └── README.md
+</pre>
 
 ## 🚀 Getting Started
 
