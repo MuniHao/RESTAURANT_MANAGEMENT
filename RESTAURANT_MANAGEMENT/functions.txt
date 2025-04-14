@@ -1,0 +1,21 @@
+***Login page
+- Kiêm tra đăng nhập
+- Kiểm tra người dung và branch
+
+*** Admin page
+- Show dashboard: show lên nhưng thông kê chi tiêu theo tháng tuần, ngày và branch 
+- Quản lí branch
+- Quản lí user
+- Quản lí món ăn và nước uống
+- Quản lí categories
+
+*** User page
+- Hiển thị thông tin nhà hangf
+- Đặt hang
+- Thanh toán và lưu hóa đơn vào csdl
+- In hóa đơn
+- Lên ơn gọi món cho khách
+- Lọc các món ăn theo tên, theo categories
+- Chỉnh sửa hóa đơn
+- Đổi bànb cho khách
+- Tự động tính tiền và hiển thị giá 
