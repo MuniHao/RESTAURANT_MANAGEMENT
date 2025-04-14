@@ -52,7 +52,7 @@ RESTAURANT_MANAGEMENT/
 ## 📷 Screenshots
 <p align="center">
   <img src="Image/1.jpg" width="250"/>
-  <img src="Image/2.jpg" width="680"/> <br/>
+  <img src="Image/2.jpg" width="650"/> <br/>
   <img src="Image/3.jpg" width="930"/> <br/>
   <img src="Image/4.jpg" width="930"/> <br/>
   <img src="Image/5.jpg" width="930"/> <br/>
